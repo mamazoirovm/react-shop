@@ -1,7 +1,8 @@
 import Image from "next/image";
 import Header from "./components/Header";
+import checkout from "./checkout/page";
 
-import Products from "./components/Products";
+
 
 export default function Home() {
   return (
